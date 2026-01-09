@@ -3809,10 +3809,10 @@
 				"text": "Oh, pacifiquement, remarquez. On n'avait pas d'armes, ni rien. On a été aux Tuileries par ce dimanche d'été un peu comme on aurait été à la promenade avec les femmes, avec les enfants, mais aussi avec des bustes de Necker qu'on avait trouvé dans les musées, qu'on avait voilé de crêpe et qu'on portait sur nos épaules, pour montrer qu'on était pas content, qu'on portait son deuil en quelque sorte.."
 			},
 			{
-				"type": "didascalie",
+				"type": "dialog",
+				"character": "Parisien 3",
 				"text": "Et bien, là, dans cette foule où -je vous le répète- il y avait des femmes et des enfants, vous ne savez pas ce qu'ils ont fait, ils ont chargé là dedans avec des dragons à cheval et sabre au clair, les dragons du Prince de Lambesc c'était. Le Prince lui même chargeait à la tête de ses troupes.."
 			},
-			{ "type": "dialog", "character": "Parisien 3", "text": "" },
 			{
 				"type": "dialog",
 				"character": "Parisien 1",
