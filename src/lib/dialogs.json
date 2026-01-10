@@ -3538,7 +3538,7 @@
 			},
 			{
 				"type": "didascalie",
-				"text": "(Seuls De Breuil et le banquier entourent le soldat / les Duplantier sont restés quelque peu en retrait)"
+				"text": "(Seuls De Breuil et le banquier entourent le soldat / les Dutrinquier sont restés quelque peu en retrait)"
 			},
 			{
 				"type": "didascalie",
@@ -3629,7 +3629,7 @@
 			},
 			{
 				"type": "didascalie",
-				"text": "Il s'adresse aux Duplantier.."
+				"text": "Il s'adresse aux Dutrinquier.."
 			},
 			{
 				"type": "dialog",
@@ -3642,7 +3642,7 @@
 			},
 			{
 				"type": "dialog",
-				"character": "Les Duplantiers",
+				"character": "Les Dutrinquiers",
 				"text": "Eh bien..."
 			},
 			{
@@ -3656,7 +3656,7 @@
 			},
 			{
 				"type": "didascalie",
-				"text": "Les Duplantiers lui remettent une bourse maigrelette."
+				"text": "Les Dutrinquiers lui remettent une bourse maigrelette."
 			},
 			{
 				"type": "didascalie",
@@ -3678,11 +3678,11 @@
 			},
 			{
 				"type": "didascalie",
-				"text": "Les Duplantier semblent quelque peu perdus.."
+				"text": "Les Dutrinquier semblent quelque peu perdus.."
 			},
 			{
 				"type": "dialog",
-				"character": "Duplantier aîné",
+				"character": "Dutrinquier aîné",
 				"text": "Vous pourriez pas répéter pour le doigt !"
 			},
 			{
@@ -3700,7 +3700,7 @@
 			},
 			{
 				"type": "didascalie",
-				"text": "L'officier donne des ordres que les Duplantier, complètement affolés, exécutent maladroitement.."
+				"text": "L'officier donne des ordres que les Dutrinquier, complètement affolés, exécutent maladroitement.."
 			},
 			{
 				"type": "didascalie",
@@ -3726,7 +3726,7 @@
 			},
 			{
 				"type": "dialog",
-				"character": "Dutrinquier Cadet",
+				"character": "Dutrinquier cadet",
 				"text": "Ha ça, ça marche aussi avec deux doigts !"
 			},
 			{
@@ -3858,7 +3858,16 @@
 				"character": "Parisien 6",
 				"text": "Mais ça n'en faisait pas assez. On était presque 40 000 à ce moment là. Alors, d'un seul coup, y a un bruit qui a couru. De la poudre, des balles, y en a, vous savez où .."
 			},
-			{ "type": "dialog", "character": "Tous", "text": "à la Bastille.. à la Bastille." },
+			{
+				"type": "didascalie",
+				"text": "les uns après les autres :"
+			},
+			{ "type": "dialog", "character": "Tous", "text": "à la Bastille.." },
+			{
+				"type": "didascalie",
+				"text": "en même temps :"
+			},
+			{ "type": "dialog", "character": "Tous", "text": "à la Bastille." },
 			{
 				"type": "dialog",
 				"character": "Parisien 6",
@@ -4125,7 +4134,7 @@
 				"text": "Non.. Auguste et éternelle.. entre le monarque et le peuple.. Acclamations.."
 			},
 			{ "type": "didascalie", "text": "on se prête au jeu" },
-			{ "type": "dialog", "character": "A toi !", "text": "" },
+			{ "type": "dialog", "character": "Homme 2", "text": "A toi !" },
 			{ "type": "dialog", "character": "Homme 1", "text": "Heu heu.." },
 			{ "type": "dialog", "character": "Homme 5", "text": "Hé, il se rappelle plus !" },
 			{
