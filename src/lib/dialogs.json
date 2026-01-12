@@ -747,9 +747,13 @@
 				"text": "Ni pain.. Ni lait.. Ni bois mort pour faire du feu.. Rien !.. Et devant les portes des églises, des enfants qu'on abandonne.. Trop d'enfants !.. Les portes ne s'ouvrent plus.."
 			},
 			{
+				"type": "didascalie",
+				"text": "tendant les bras vers l'enfant : "
+			},
+			{
 				"type": "dialog",
 				"character": "L'Homme",
-				"text": "tendant les bras vers l'enfant : Donne.. Donne.. que je le berce.. Que je l'endorme.."
+				"text": "Donne.. Donne.. que je le berce.. Que je l'endorme.."
 			},
 			{
 				"type": "didascalie",
@@ -757,7 +761,7 @@
 			},
 			{
 				"type": "dialog",
-				"character": "La Femme",
+				"character": "L'Homme",
 				"text": "Maudits. Nous sommes maudits. Maudits pour toujours.."
 			},
 			{
@@ -810,7 +814,7 @@
 			},
 			{
 				"type": "didascalie",
-				"text": "Derrière lui, une grande carte de France.."
+				"text": "Derrière lui, une grande carte de France, amené par Jérémie (le valet)"
 			},
 			{
 				"type": "dialog",
@@ -3192,7 +3196,7 @@
 			},
 			{
 				"type": "dialog",
-				"character": "La Femme",
+				"character": "La Femme des Halles",
 				"text": "Etes vous bien lâches ? Qu'attendez vous pour vous révolter ? Les laisserez vous faire ?"
 			}
 		]
@@ -6440,13 +6444,29 @@
 			{
 				"type": "dialog",
 				"character": "BH3",
-				"text": "8 000 ! (Voyons, cher ami, vous êtes déjà propriétaire de la plupart des domaines alentour. A quoi bon vous porter acquéreur de celui-ci ?)"
+				"text": "8 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BF4",
+				"text": "9000 !"
 			},
 			{
 				"type": "dialog",
 				"character": "BH2",
-				"text": "10 000 ! (Mon épouse aime les bénédictins !)"
+				"text": "10 000 !"
 			},
+			{
+				"type": "dialog",
+				"character": "BH3",
+				"text": "Voyons, cher ami, vous êtes déjà propriétaire de la plupart des domaines alentour. A quoi bon vous porter acquéreur de celui-ci ?"
+			},
+			{
+				"type": "dialog",
+				"character": "BH2",
+				"text": "Mon épouse aime les bénédictins !"
+			},
+
 			{
 				"type": "dialog",
 				"character": "BH1",
@@ -6454,8 +6474,201 @@
 			},
 			{
 				"type": "dialog",
+				"character": "BH2",
+				"text": "Un enfant ? Mais j'en suis ravi pour vous, Madame.. et désolé pour vous Monsieur !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH1",
+				"text": "Qu'est ce à dire ?"
+			},
+			{
+				"type": "dialog",
+				"character": "BH4",
+				"text": "Et bien, il est fort louable que vous vous intéressassiez au bonheur de l'enfant de votre femme !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH1",
+				"text": "Mais c'est aussi le mien !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH2",
+				"text": "Tiens donc !... 12 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BF3",
+				"text": "13000"
+			},
+			{
+				"type": "dialog",
+				"character": "BF2",
+				"text": "14000"
+			},
+			{
+				"type": "dialog",
+				"character": "BF1",
+				"text": "15000"
+			},
+			{
+				"type": "dialog",
+				"character": "BH1",
+				"text": "20000 !.."
+			},
+			{
+				"type": "didascalie",
+				"text": "se rendant compte qu'il vient de surencherir sur sa femme."
+			},
+			{
+				"type": "dialog",
+				"character": "BH1",
+				"text": "Oh pardon !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH3",
+				"text": "25 000"
+			},
+			{
+				"type": "dialog",
+				"character": "BF4",
+				"text": "20 000 livres pour une bondieuserie, comme vous y allez, Monsieur !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH3",
+				"text": "Oui Madame j'y vais, désolé que vous ne puissiez suivre !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH2",
+				"text": "30 000 ! Je veux ce domaine !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH3",
+				"text": "31 000 ! Sachez Monsieur le parvenu, que je ne lâcherai pas prise !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH1",
+				"text": "35 000 ! Ce domaine sera à moi !"
+			},
+			{
+				"type": "dialog",
+				"character": "BF4",
+				"text": "36 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BF1",
+				"text": "37 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BF3",
+				"text": "38 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BF2",
+				"text": "39 000 !"
+			},
+			{
+				"type": "dialog",
 				"character": "BH4",
 				"text": "40 000 ! Ce domaine me revient de droit.."
+			},
+			{
+				"type": "dialog",
+				"character": "BH1",
+				"text": "41 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH4",
+				"text": "42 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BF3",
+				"text": "43 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH4",
+				"text": "44 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH3",
+				"text": "45 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH4",
+				"text": "46 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH1",
+				"text": "47 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH4",
+				"text": "48 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH2",
+				"text": "49 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH4",
+				"text": "50 000 !"
+			},
+			{
+				"type": "didascalie",
+				"text": "Il porte la main sur la maquette"
+			},
+			{
+				"type": "dialog",
+				"character": "BH1",
+				"text": "Lachez ceci, Monsieur, ou je vous corrige !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH4",
+				"text": "53 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH2",
+				"text": "Faquin !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH4",
+				"text": "55 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH3",
+				"text": "Gougat !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH4",
+				"text": "57 000 !"
+			},
+			{
+				"type": "dialog",
+				"character": "BH1",
+				"text": "Malappris !"
 			},
 			{
 				"type": "dialog",
