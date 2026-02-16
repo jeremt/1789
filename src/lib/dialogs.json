@@ -6474,7 +6474,7 @@
 			},
 			{
 				"type": "dialog",
-				"character": "BH2",
+				"character": "BH4",
 				"text": "Un enfant ? Mais j'en suis ravi pour vous, Madame.. et désolé pour vous Monsieur !"
 			},
 			{
@@ -6711,6 +6711,10 @@
 	{
 		"title": "Scène 41 : LA FUITE DU ROI",
 		"dialogs": [
+			{
+				"type": "didascalie",
+				"text": "On rentre à cour"
+			},
 			{
 				"type": "didascalie",
 				"text": "MUSIQUE"
